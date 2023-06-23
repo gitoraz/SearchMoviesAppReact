@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SearchMoviesAppReact/static/css/main.e3b1bd16.css",
+    "main.js": "/SearchMoviesAppReact/static/js/main.87c27d57.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SearchMoviesAppReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SearchMoviesAppReact/index.html",
+    "main.e3b1bd16.css.map": "/SearchMoviesAppReact/static/css/main.e3b1bd16.css.map",
+    "main.87c27d57.js.map": "/SearchMoviesAppReact/static/js/main.87c27d57.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SearchMoviesAppReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3b1bd16.css",
+    "static/js/main.87c27d57.js"
+  ]
+}
