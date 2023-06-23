@@ -1,0 +1,6 @@
+{
+  "homepage": "https://gitoraz.github.io/SearchMoviesAppReact/",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}

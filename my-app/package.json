@@ -1,4 +1,5 @@
 {
+  "homepage": "https://gitoraz.github.io/SearchMoviesAppReact/",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build:tailwind": "tailwindcss build src/tailwind.css -o src/tailwind.output.css",
     "prestart": "npm run build:tailwind",
     "prebuild": "npm run build:tailwind",
