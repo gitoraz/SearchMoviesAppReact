@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gitoraz/SearchMoviesAppReact/static/css/main.dd6f2ed4.css",
+    "main.js": "/gitoraz/SearchMoviesAppReact/static/js/main.5a91599c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gitoraz/SearchMoviesAppReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/gitoraz/SearchMoviesAppReact/index.html",
+    "main.dd6f2ed4.css.map": "/gitoraz/SearchMoviesAppReact/static/css/main.dd6f2ed4.css.map",
+    "main.5a91599c.js.map": "/gitoraz/SearchMoviesAppReact/static/js/main.5a91599c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gitoraz/SearchMoviesAppReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd6f2ed4.css",
+    "static/js/main.5a91599c.js"
+  ]
+}
